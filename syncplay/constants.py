@@ -144,6 +144,7 @@ MPV_ICONPATH = "mpv.png"
 MPC_ICONPATH = "mpc-hc.png"
 MPC64_ICONPATH = "mpc-hc64.png"
 MPC_BE_ICONPATH = "mpc-be.png"
+KODI_ICONPATH = "kodi.png"
 
 MPV_ERROR_MESSAGES_TO_REPEAT = ['[ytdl_hook] Your version of youtube-dl is too old', '[ytdl_hook] youtube-dl failed', 'Failed to recognize file format.', '[syncplayintf] Lua error']
 
